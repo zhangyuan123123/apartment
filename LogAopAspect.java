@@ -74,7 +74,5 @@ public class LogAopAspect {
         mongoTemplate.save(longbean);
     }
 
-
-
-
+     ssdfgbnmgfdsdfghnmgfghmmhgdfgbhnm
 }
